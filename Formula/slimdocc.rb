@@ -1,7 +1,7 @@
 class Slimdocc < Formula
   desc "CLI tool for slimming down Swift Docc's that has been transformed for static hosting"
   homepage "https://github.com/TerjeLon/slimdocc"
-  url "https://github.com/TerjeLon/slimdocc/archive/refs/tags/v0.0.2.tar.gz"
+  url "https://github.com/TerjeLon/slimdocc/archive/refs/tags/v0.0.4.tar.gz"
   sha256 "80f47f5e892f36a0312d23f788ceaf362969729be96b4cd8e60e945e9ed9b9f1"
   license "MIT"
 
